@@ -18,12 +18,12 @@
    - Tampermonkey
    - Violentmonkey
 
-2. 打开本仓库里的 `sanguosha_sorted-by-suit.user.js`。
+2. 打开本仓库里的 `sgs-card-sorter.user.js`。
 
 3. 如果已经上传到 GitHub，可以打开 Raw 原始文件地址安装，例如：
 
 ```text
-https://raw.githubusercontent.com/doctrine5431/sanguosha_sorted-by-suit/main/sanguosha_sorted-by-suit.user.js
+https://raw.githubusercontent.com/doctrine5431/sgs-card-sorter/main/sgs-card-sorter.user.js
 ```
 
 4. 进入网页版三国杀：
@@ -49,7 +49,7 @@ https://web.sanguosha.com/
 
 ## 文件说明
 
-- `sanguosha_sorted-by-suit.user.js`：用户脚本本体。
+- `sgs-card-sorter.user.js`：用户脚本本体。
 - `README.md`：项目说明。
 - `CHANGELOG.md`：版本记录。
 - `LICENSE`：MIT 许可证。
