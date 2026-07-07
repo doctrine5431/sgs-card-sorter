@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         三国杀手牌花色排序
-// @namespace    sgs-card-sorter
+// @namespace    sanguosha_sorted-by-suit
 // @version      2.1
 // @description  可拖拽悬浮窗，点击按花色排序手牌
 // @author       FAWEI
