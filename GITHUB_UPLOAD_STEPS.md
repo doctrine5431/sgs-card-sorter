@@ -47,9 +47,9 @@ Initial release
 上传完成后，脚本的安装地址一般是：
 
 ```text
-https://raw.githubusercontent.com/你的GitHub用户名/sgs-card-sorter/main/sgs-card-sorter.user.js
+https://raw.githubusercontent.com/doctrine5431/sgs-card-sorter/main/sgs-card-sorter.user.js
 ```
 
-把里面的 `你的GitHub用户名` 换成你的 GitHub 用户名。
+这个地址里的用户名和仓库名已经按 `doctrine5431/sgs-card-sorter` 填好。
 
 如果你的默认分支不是 `main`，而是 `master`，就把地址里的 `main` 改成 `master`。

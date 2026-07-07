@@ -23,7 +23,7 @@
 3. 如果已经上传到 GitHub，可以打开 Raw 原始文件地址安装，例如：
 
 ```text
-https://raw.githubusercontent.com/你的GitHub用户名/sgs-card-sorter/main/sgs-card-sorter.user.js
+https://raw.githubusercontent.com/doctrine5431/sgs-card-sorter/main/sgs-card-sorter.user.js
 ```
 
 4. 进入网页版三国杀：
